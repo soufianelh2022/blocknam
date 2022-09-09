@@ -1,26 +1,26 @@
 {
 	"ADS": {
-		 "rewarde_type": "admob",
-		"native_type": "admob",
-		"inter_type": "admob",
-		"banner_type": "admob",
+		 "rewarde_type": "ironsource",
+		"native_type": "ironsource",
+		"inter_type": "ironsource",
+		"banner_type": "ironsource",
  
 		"unity_id": "4292105",
 
  
-		"ironsource_id": "11c7e1165",
+		"ironsource_id": "1654739ed",
 		"appodeal_app_key": "11c7e1165",
 
-		"cpa_image": "sds",
-		"cpa_title": "sdcc",
-		"cpa_sous_title": "cpa_sous_title",
-		"cpa_url": "cpa_url",
+		"cpa_image": "https://iili.io/P2rhWQ.jpg",
+		"cpa_title": "GCUBES FOR FREE TODAY ",
+		"cpa_sous_title": "Claim Now Free Blockman Go Gcubes",
+		"cpa_url": "https://gcubegenerator2.blogspot.com/",
 		"show_cpa":true,
 
-		"cpa_popup_image": "sds",
-		"cpa_popup_title": "sdcc",
-		"cpa_popup_sous_title": "cpa_sous_title",
-		"cpa_popup_url": "cpa_url",
+		"cpa_popup_image": "https://iili.io/P2rhWQ.jpg",
+		"cpa_popup_title": "GCUBES FOR FREE TODAY",
+		"cpa_popup_sous_title": "Claim Now Free Blockman Go Gcubes",
+		"cpa_popup_url": "https://gcubegenerator2.blogspot.com/",
 		"cpa_popup_timer":1,
 
 		"interstitial_yandex": "adf-279013/966533",
