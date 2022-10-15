@@ -1,11 +1,11 @@
 {
 	"ADS": {
-		 "rewarde_type": "admob",
+		 "rewarde_type": "unity",
 		"native_type": "admob",
-		"inter_type": "admob",
+		"inter_type": "unity",
 		"banner_type": "yandex",
  
-		"unity_id": "4873217",
+		"unity_id": "4973453",
 
  
 		"ironsource_id": "165485995",
